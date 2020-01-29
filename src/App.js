@@ -18,7 +18,7 @@ function App() {
         >
           learn dave 
         </a>
-	<p>Please do not learn dave</p>
+	<p>Please do not learn RUST</p>
       </header>
     </div>
   );
